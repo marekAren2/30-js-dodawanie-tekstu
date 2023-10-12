@@ -1,4 +1,4 @@
-
+// naglowek = document.querySelector("h1");
 let naglowek = document.querySelector("h1");
 // naglowek.textcontent = "test użycia wlasciwości .texcontent";
 naglowek.textContent = "test użycia wlasciwości .textContent";
