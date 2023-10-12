@@ -1,4 +1,8 @@
 
+naglowek = document.querySelector("h1");
+naglowek.textcontent = "test użycia wlasciwości .texcontent";
+
+
 
 /* Stwórz dokument HTML. Stwórz plik main.js w odpowiednim folderze i podepnij go pod plik HTML.
 
